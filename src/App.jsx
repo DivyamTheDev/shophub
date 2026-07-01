@@ -5,21 +5,23 @@ import Auth from './pages/Auth.jsx';
 import Checkout from './pages/Checkout.jsx';
 import { useState } from 'react';
 import Navbar from './components/Navbar.jsx';
+import  AuthProvider  from './context/AuthContext.jsx';
 import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
+    <AuthProvider>
     <div className="app">
       <Navbar />
       <Routes>
         <Route path ="/" element={<Home />} />
         <Route path ="/auth" element={<Auth />} />
         <Route path ="/checkout" element={<Checkout />} />
-      </Routes>
-
+      </Routes>    
     </div>
+     </AuthProvider>
   );
 }
 
