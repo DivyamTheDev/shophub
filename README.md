@@ -38,36 +38,7 @@ ShopHub demonstrates a complete frontend shopping experience including product b
 
 ---
 
-## 📂 Project Structure
 
-```
-src/
-│
-├── assets/
-│
-├── components/
-│   ├── Navbar.jsx
-│   └── ProductCard.jsx
-│
-├── context/
-│   ├── AuthContext.jsx
-│   └── CartContext.jsx
-│
-├── data/
-│   └── products.js
-│
-├── pages/
-│   ├── Home.jsx
-│   ├── ProductDetails.jsx
-│   ├── Checkout.jsx
-│   └── Auth.jsx
-│
-├── App.jsx
-├── main.jsx
-└── App.css
-```
-
----
 
 ## 🚀 Getting Started
 
