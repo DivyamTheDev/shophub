@@ -75,6 +75,11 @@ http://localhost:5173
 ---
 
 ## LIVE APP- https://shophub-tau-steel.vercel.app/
+---
+## Screen Shots
+<img width="1853" height="801" alt="Screenshot 2026-07-05 174449" src="https://github.com/user-attachments/assets/738edefc-c22a-410c-b39f-94d179f7f366" />
+<img width="1902" height="912" alt="Screenshot 2026-07-05 174426" src="https://github.com/user-attachments/assets/a729ceb9-0842-4440-a51a-49d96d0aab2b" />
+
 
 ## 🎯 Learning Objectives
 
