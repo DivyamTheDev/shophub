@@ -66,8 +66,7 @@
     id: 8,
     name: "Webcam HD",
     price: 89.99,
-    image:
-      "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=500&h=500&fit=crop",
+    image: "/images/webcam_hd.png",
     description:
       "1080p HD webcam with auto-focus and built-in microphone. Ideal for video calls and streaming.",
   },
@@ -75,8 +74,7 @@
     id: 9,
     name: "Wireless Charger 3-in-1",
     price: 45.99,
-    image:
-      "https://images.unsplash.com/photo-1622445262465-2481c4574875?w=500&h=500&fit=crop",
+    image: "/images/wireless_charger.png",
     description:
       "Convenient 3-in-1 wireless charging station for your smartphone, smartwatch, and earbuds. Sleek space-saving design.",
   },
@@ -93,8 +91,7 @@
     id: 11,
     name: "Wooden Desk Organizer",
     price: 24.99,
-    image:
-      "https://images.unsplash.com/photo-1590790313300-ec3cb0128414?w=500&h=500&fit=crop",
+    image: "/images/wooden_desk_organizer.png",
     description:
       "Elegant wooden organizer tray for pens, cards, and small office accessories. Keeps your desk neat and tidy.",
   },
@@ -102,8 +99,7 @@
     id: 12,
     name: "1TB Portable SSD",
     price: 119.99,
-    image:
-      "https://images.unsplash.com/photo-1595206133361-b1fe343e5e23?w=500&h=500&fit=crop",
+    image: "/images/portable_ssd.png",
     description:
       "Ultra-fast portable solid-state drive with high-speed transfers. Compact, shock-resistant design for on-the-go storage.",
   },
