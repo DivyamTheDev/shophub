@@ -71,6 +71,60 @@
     description:
       "1080p HD webcam with auto-focus and built-in microphone. Ideal for video calls and streaming.",
   },
+  {
+    id: 9,
+    name: "Wireless Charger 3-in-1",
+    price: 45.99,
+    image:
+      "https://images.unsplash.com/photo-1622445262465-2481c4574875?w=500&h=500&fit=crop",
+    description:
+      "Convenient 3-in-1 wireless charging station for your smartphone, smartwatch, and earbuds. Sleek space-saving design.",
+  },
+  {
+    id: 10,
+    name: "Leather Desk Pad",
+    price: 34.99,
+    image:
+      "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?w=500&h=500&fit=crop",
+    description:
+      "Premium double-sided leather desk mat that protects your workspace. Smooth gliding surface for your mouse.",
+  },
+  {
+    id: 11,
+    name: "Wooden Desk Organizer",
+    price: 24.99,
+    image:
+      "https://images.unsplash.com/photo-1590790313300-ec3cb0128414?w=500&h=500&fit=crop",
+    description:
+      "Elegant wooden organizer tray for pens, cards, and small office accessories. Keeps your desk neat and tidy.",
+  },
+  {
+    id: 12,
+    name: "1TB Portable SSD",
+    price: 119.99,
+    image:
+      "https://images.unsplash.com/photo-1595206133361-b1fe343e5e23?w=500&h=500&fit=crop",
+    description:
+      "Ultra-fast portable solid-state drive with high-speed transfers. Compact, shock-resistant design for on-the-go storage.",
+  },
+  {
+    id: 13,
+    name: "Bluetooth Speaker Pro",
+    price: 69.99,
+    image:
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+    description:
+      "IPX7 waterproof portable Bluetooth speaker with rich bass and crystal-clear 360-degree sound. Up to 15 hours of playtime.",
+  },
+  {
+    id: 14,
+    name: "Ergonomic Office Chair",
+    price: 199.99,
+    image:
+      "https://images.unsplash.com/photo-1505797149-43b0069ec26b?w=500&h=500&fit=crop",
+    description:
+      "High-back office chair with adjustable lumbar support, armrests, and breathable mesh back for ultimate comfort.",
+  }
 ];
 
 export  function getProducts() {
